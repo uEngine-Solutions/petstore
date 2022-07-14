@@ -12,8 +12,12 @@ public class CancelCommand {
     private String test2;
     
     public void templateMethod(){
-        //
+        //test
     }
+    
+    public void templateMethod2(){
+    }
+    
     
     
 }
