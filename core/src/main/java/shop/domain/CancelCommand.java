@@ -13,14 +13,13 @@ public class CancelCommand {
     
     public void method(){
         System.out.println("tset");
+
+        //my change
     }
     public void templateMethod(){
         //test
     }
-    
-    public void templateMethod2(){
-    }
-    
+
     
     
 }
