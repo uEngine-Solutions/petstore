@@ -9,7 +9,7 @@ import lombok.Data;
 public class CancelCommand {
 
     private String test;
-    private String test2;
+
     
     public void templateMethod(){
         //test
