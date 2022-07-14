@@ -14,5 +14,9 @@ public class CancelCommand {
     public void method(){
         System.out.println("tset");
     }
+    public void templateMethod(){
+        //
+    }
+    
     
 }
