@@ -15,8 +15,12 @@ public class CancelCommand {
         System.out.println("tset");
     }
     public void templateMethod(){
-        //
+        //test
     }
+    
+    public void templateMethod2(){
+    }
+    
     
     
 }
